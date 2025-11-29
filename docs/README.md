@@ -27,3 +27,4 @@ Our project management lifecycle:
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [RACI Matrix](octoacme-raci-matrix.md)
